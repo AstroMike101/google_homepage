@@ -1,0 +1,40 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.google_logo {
+    width:100%;
+    height:auto;
+}
+
+
+
+#footer {
+    
+}
+
+
+input[type="text"] {
+border-radius: 15px 15px;
+
+}
+
+
+
+#navbar {
+
+}
+
+
+
+.font {
+    font-family: Roboto,arial,sans-serif;
+}
+
+
+
+
+
