@@ -1,0 +1,1 @@
+This is a replica of google's homepage. It is a project I have started in order to practice creating websites using HTML & CSS. By doing so, it will efficiently allow me to practically apply HTML and CSS concepts that I have learned.
