@@ -2,6 +2,7 @@
 .container1 {
     display:flex;
     justify-content: space-between;
+    
 }
 
 
@@ -12,13 +13,55 @@
     justify-content: center;
     align-items: center;
     margin: 50px;
+    
 }
 
-.navbar {
-    margin: 0;
-    padding: 0;
-    font-size: 15px;    
+.buttons {
+  padding: 25px;
 }
+
+
+button{
+    margin:10px;
+    background-color: rgb(248, 249, 250);
+    border-color:rgb(248, 249, 250);
+    color:rgb(60, 64, 67);
+    font-size: 14px;
+    border-style: solid solid solid solid; 
+    width: 150px;
+    height: 35px;
+   
+
+}
+
+
+
+
+
+
+
+
+
+.container3{
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    left: 5px;
+    
+    position: absolute;
+    bottom: 0;
+    left:1px;
+    width: 100%;
+    height: 2.5rem; 
+    background-color: #ededee;
+    padding: 0px 3px 0px 3px;
+
+   
+}
+
+
+
+
 
 
 .logo_google{
@@ -31,10 +74,6 @@
 
 
 
-#footer {
-
-    
-}
 
 
 input[type="text"] {
@@ -45,6 +84,8 @@ border: 1.5px solid #ECECEC;
 background: url(../images/search.png);
 background-repeat: no-repeat;
 background-position: 7px 7px;
+outline: none;
+
 
 }
 
