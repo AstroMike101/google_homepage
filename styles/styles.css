@@ -28,12 +28,22 @@ button{
     color:rgb(60, 64, 67);
     font-size: 14px;
     border-style: solid solid solid solid; 
-    width: 150px;
-    height: 35px;
+    width: 140px;
+    height:35px;
    
+    
+   /* width: 10.41vw;
+    height:4.8vh; 
+    
+    */
+ 
 
 }
 
+button:hover{
+    box-shadow: 0.5px 0.5px 0.5px 0.5px #afacac;
+    cursor: pointer;
+}
 
 
 
@@ -64,6 +74,8 @@ button{
 
 
 
+
+
 .logo_google{
     padding: 25px;
 
@@ -72,6 +84,11 @@ button{
 
 
 
+.mic {
+    position:relative;
+    right: 35px;
+    top: 8px;
+}
 
 
 
@@ -83,8 +100,10 @@ height: 35px;
 border: 1.5px solid #ECECEC;
 background: url(../images/search.png);
 background-repeat: no-repeat;
-background-position: 7px 7px;
+background-position: 6px 10px;
 outline: none;
+padding: 5px 0 5px 45px;
+
 
 
 }
@@ -103,12 +122,14 @@ ul {
     list-style-type: none;
     padding: 0;
     margin: 0;
+    color: rgb(112, 117, 122);
 }
 
 li {
     display:inline;
     margin: 10px; 
     float:left;
+    color:rgb(112, 117, 122)
 
 }
 
@@ -118,3 +139,6 @@ li:hover {
 
 
 
+
+    
+  
