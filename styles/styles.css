@@ -41,8 +41,10 @@ input[type="text"] {
 border-radius: 15px 15px;
 width: 550px;
 height: 35px;
+border: 1.5px solid #ECECEC;
 background: url(../images/search.png);
 background-repeat: no-repeat;
+background-position: 7px 7px;
 
 }
 
